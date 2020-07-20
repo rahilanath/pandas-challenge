@@ -1,7 +1,6 @@
 # Heroes of Pymoli
 
-- Heroes of Pymoli
-![Fantasy](../Images/Fantasy.png)
+![Fantasy](Images/Fantasy.png)
 
 ### Findings
 The dataset and the data frames that were created in the assignment are geared towards supporting the in-app-purchases (IAP) business model. With that in mind here are my findings:
