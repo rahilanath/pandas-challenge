@@ -1,5 +1,6 @@
 # pandas-challenge
 
+![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
 
 ### Heroes Of Pymoli Submission
 The submission of this assignment does not provide justification or a vote of approval for the increasing trend of free-to-play game models featuring IAPs within the video game industry...
